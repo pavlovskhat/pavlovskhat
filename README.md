@@ -15,7 +15,7 @@
 A humble scholar in the ways of tech trying to find meaning in life. Currently a black belt coder in Python and quite conversational in Java.
 
 - 🔭 Currently working on helping beginners learn the ways of the code while building and improving my existing projects.
-- 🌱 Getting to grips with the Django framework -> watch this space for my current Django repo link
+- 🌱 Getting to grips with the Django framework -> [watch this space for my current Django repo link](https://github.com/pavlovskhat/book-store-udemy)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris_Smit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-smit-8a24b891/)
 
 ---
