@@ -12,7 +12,7 @@
 ---
 
 ### 🌌 About Me
-A humble scholar in the ways of tech trying to find meaning in life. Currently a black belt coder in Python and quite conversational in Java.
+A humble scholar in the ways of tech trying to find meaning in life. Currently a black belt coder in Python and quite conversational in Django.
 
 - 🔭 Currently working on helping beginners learn the ways of the code while building and improving my existing projects.
 - 🌱 Getting to grips with the Django framework -> [watch this space for my current Django repo link](https://github.com/pavlovskhat/book-store-udemy)
